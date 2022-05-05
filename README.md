@@ -1,4 +1,4 @@
-# Read .cvs Files
+# Read .csv Files
 ![npm](https://img.shields.io/npm/v/npm)
 [![HitCount](http://hits.dwyl.com/dminatto/dogs-dynamo.svg)](http://hits.dwyl.com/dminatto/read-csv-files)
 
