@@ -1,0 +1,21 @@
+{
+  "name": "read-csv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "15.12.0"
+  },
+  "author": "Daniele Minatto <daniele.minatto@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "luxon": "^1.26.0",
+    "mongoose": "^5.12.2",
+    "papaparse": "^5.3.0"
+  }
+}
